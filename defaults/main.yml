@@ -1,0 +1,6 @@
+---
+hcloud_network_type: cloud
+hcloud_network_zone: eu-central
+hcloud_network_delete_protection: false
+hcloud_network_expose_routes_to_vswitch: false
+hcloud_network_state: present
